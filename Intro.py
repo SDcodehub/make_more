@@ -14,6 +14,14 @@ st.markdown(
     "Bigram model -  character level model, 2 character understanding"
 )
 
+st.markdown(
+            "[repo link](https://github.com/SDcodehub/make_over.git)"
+)
+
+st.markdown(
+            "[Dataset](https://github.com/SDcodehub/make_over/blob/main/data/names.txt)"
+)
+
 
 st.subheader("Ref")
 st.markdown(
