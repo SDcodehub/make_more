@@ -23,7 +23,7 @@ num_results = st.number_input("Number of Names to be Generated", min_value=1, ma
 # get weights
 with st.form('myform', clear_on_submit=True):
 
-    submitted = st.form_submit_button('Submit')
+    submitted = st.form_submit_button('Generate')
 
     if submitted:
         # get current path
